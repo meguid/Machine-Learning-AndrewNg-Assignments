@@ -1,3 +1,11 @@
+## Assignments:
+
+- [x] Week 1
+- [x] Week 2
+- [ ] Week 3
+- [ ] Week 4
+- [ ] More...
+
 # What is this?
 
 This repo contains my solution of assignment in [2018 Stanford Machine Learning Class](http://www.ml-class.org).
