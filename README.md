@@ -24,6 +24,3 @@ Copyright (c) 2018 [Meguid](https://github.com/meguid).
 
 https://github.com/schneems/Octave
 
-https://github.com/joewandy/Stanford-Machine-Learning
-
-
